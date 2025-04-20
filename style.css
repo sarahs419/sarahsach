@@ -1,0 +1,22 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+
+body{
+   font-family: 'Roboto', sans-serif;
+     background-color:  #f7d8fd;}  
+}
+
+h1 {
+  color: black;
+}
+
+body:nth-child(2) {
+  color: blue;
+}
+
+body:nth-child(3) {
+  color: red;
+}
